@@ -4,7 +4,7 @@
 
 https://josejavier-dev.github.io/PiedraPapelSpock/
 
-Este proyecto es una implementación interactiva del clásico juego ampliado **Piedra, Papel, Tijeras, Lagarto, Spock**, con interfaz gráfica, IA con distintos niveles de dificultad y modo multijugador local.
+Este proyecto es una tarea de 1ºDam que consiste en una implementación interactiva del clásico juego ampliado **Piedra, Papel, Tijeras, Lagarto, Spock**, con interfaz gráfica, IA con distintos niveles de dificultad y modo multijugador local.
 
 ---
 
